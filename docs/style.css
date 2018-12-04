@@ -23,6 +23,10 @@ div {
     border-color: black;
 }
 
+.menu {
+    display: inline-block;
+}
+
 .floatRight {
     float: right;
 }
