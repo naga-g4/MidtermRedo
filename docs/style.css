@@ -1,0 +1,10 @@
+#wrapper {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Helvetica, serif;
+}
+
+.clear {
+    clear: both;
+}
