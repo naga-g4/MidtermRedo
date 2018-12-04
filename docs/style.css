@@ -14,6 +14,11 @@ div {
     display: block;
 }
 
+.head {
+    line-height: normal;
+    height: ;
+}
+
 .logo {
     border-color: black;
 }
