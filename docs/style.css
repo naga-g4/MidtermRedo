@@ -15,8 +15,8 @@ div {
 }
 
 .head {
-    line-height: normal;
-    height: ;
+    height: 135px;
+    line-height: 0;
 }
 
 .logo {
