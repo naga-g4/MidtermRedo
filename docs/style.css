@@ -8,3 +8,12 @@
 .clear {
     clear: both;
 }
+
+
+div {
+    display: block;
+}
+
+.logo {
+    border-color: black;
+}
